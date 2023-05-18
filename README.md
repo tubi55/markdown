@@ -14,3 +14,5 @@ box.addEventListener('click', (e) => {
 	e.preventDefault();
 });
 ```
+
+- 네이버: <https://www.naver.com/>
